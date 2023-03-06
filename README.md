@@ -1,2 +1,2 @@
 # rockeseat-omnistack-9-frontend
-Projeto desenvolvido no curso produzido pela Rocketseat na semana omnistack 9
+Project developed in the course produced by Rocketseat in omnistack week 9
